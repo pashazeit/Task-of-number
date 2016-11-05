@@ -480,6 +480,6 @@ public class Main {
 
         }
 
-        System.out.println(output.replaceAll("\\s{2,}", " "));
+        System.out.println(output.replaceAll("\\s{2,}", " ")); 
     }
 }
